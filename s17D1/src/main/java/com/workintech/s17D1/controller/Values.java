@@ -17,5 +17,6 @@ public class Values {
     @GetMapping
     public  void deneme(){
         System.out.println(" "+owner+" "+developer+" "+type);
+
     }
 }
